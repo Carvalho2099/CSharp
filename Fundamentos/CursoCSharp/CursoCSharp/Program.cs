@@ -13,6 +13,7 @@ namespace CursoCSharp
                 {"Comentários - Fundamentos", Comentarios.Executar },
                 {"Variáveis e Constantes - Fundamentos", VariaveisEConstantes.Executar },
                 {"Inferencia - Fundamentos", Inferencia.Executar },
+                {"Interpolação - Fundamentos", Interpolacao.Executar },
             });
 
             central.SelecionarEExecutar();
