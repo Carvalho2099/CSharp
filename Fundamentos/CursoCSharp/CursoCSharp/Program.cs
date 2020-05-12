@@ -15,6 +15,7 @@ namespace CursoCSharp
                 {"Inferencia - Fundamentos", Inferencia.Executar },
                 {"Interpolação - Fundamentos", Interpolacao.Executar },
                 {"Notação Ponto - Fundamentos", NotacaoPonto.Executar },
+                {"Lendo Dados - Fundamentos", LendoDados.Executar },
             });
 
             central.SelecionarEExecutar();
